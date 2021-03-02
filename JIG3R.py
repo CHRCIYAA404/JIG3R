@@ -71,7 +71,7 @@ def logo():
 def JIGER_SQUAD():
     os.system('clear')
     logo()
-   
+    print ''
     print ''╱╱┃┃╱╱┳╱┓┳╭┛┳┓
     print ''▉━╯┗━╮┃╱┃┣┻╮┣╱
     print ''▉┈┈┈┈┃┻┛┛┻╱┗┗┛
